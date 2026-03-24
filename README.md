@@ -3,7 +3,7 @@ It's my graduation project writen in 1C
 
 The organization needed to implement a system for recording the provision of legal services.
 
-[Image](https://www.https://github.com/tremitoc24/legal-services-accounting/main/BisnessProccessSchema.png)
+[Image](BisnessProccessSchema.png)
 This is the buisness process of the organization.
 
 To complete the task, an ER diagram was created.
